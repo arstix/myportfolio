@@ -1,0 +1,14 @@
+.footer__div {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.footer__copyright {
+  margin-left: -130px;
+}
+
+.linkedin__div {
+  display: flex;
+}

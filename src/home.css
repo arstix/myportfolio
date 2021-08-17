@@ -1,0 +1,25 @@
+.linear__timer {
+  margin-bottom: 30px;
+}
+
+.home__skills {
+  display: flex;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.home__whois > h1 {
+  margin-left: 40px;
+}
+
+.home__whois {
+  margin-right: 40px;
+}
+
+.home__whois > p {
+  margin-left: -160px;
+}
+
+.timer___skillsdiv {
+  margin-right: 30px;
+}

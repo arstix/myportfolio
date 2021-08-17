@@ -1,0 +1,24 @@
+.github__image:hover {
+    transform: scale(1.05);
+}
+
+.projects__button {
+  border: 2px solid #E2E5DE;
+  background-color:  #E2E5DE;
+  padding: 15px;
+  border-radius: 30px;
+  width: 300px;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+.projects__button:hover {
+  transform: scale(1.05);
+}
+
+.projects__github {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}

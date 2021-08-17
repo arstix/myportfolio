@@ -1,0 +1,16 @@
+.main__navbar {
+  display: flex;
+}
+
+.main__navbar > h3 {
+  margin-left: 100px;
+}
+
+.main__navbar > a {
+  justify-content: space-around;
+  margin-right: 80px;
+  margin-left: 50px;
+  padding-top: 40px;
+  cursor: pointer;
+  margin: 0 auto;
+}
